@@ -1,0 +1,16 @@
+.input-group-addon{
+	border:none;
+	background-color:transparent;
+}
+.form-control{
+	border:none;
+}
+.x-panel-content>.list-group-item{
+	border:none;
+}
+.spacing{
+	margin-bottom:10px;
+}
+.x-toggle{
+	margin-top:-8px;
+}

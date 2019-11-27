@@ -1,0 +1,21 @@
+{
+	"appInfo":{
+		"androidApp":{
+			"changeLog":"",
+			"downloadURL":"http://xz8090.com:8082/buct/app.apk",
+			"version":"1.0.2"
+		},
+		"iosApp":{
+			"changeLog":"",
+			"downloadURL":"http://xz8090.com:8082/buct/app.ipa",
+			"version":"1.0.2"
+		}
+	},
+	"resourceInfo":{
+		"appVersion":"",
+		"downloadURL":"http://xz8090.com:8082/buct/www.zip",
+		"indexURL":"/buctwebvpn/index.w",
+		"mode":"1",
+		"version":"v-VnaM7r-zh_CN-"
+	}
+}
